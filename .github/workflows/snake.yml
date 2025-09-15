@@ -2,25 +2,24 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # har raat 12 baje run karega
-  workflow_dispatch:       # manually bhi trigger kar sakta hai
+    - cron: "0 0 * * *" # har raat 12 baje chalega
+  workflow_dispatch:     # manually bhi trigger kar sakta hai
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v2
+      - name: Checkout
+        uses: actions/checkout@v3
 
-      - name: Generate Snake animation
-        uses: Platane/snk@v3
+      - name: Generate snake.svg
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: RajatDjangoDeveloper
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Upload to GitHub Pages
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
