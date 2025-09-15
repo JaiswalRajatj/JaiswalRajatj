@@ -65,8 +65,9 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 
 ## 🐍 Contribution Graph  
 
-![Snake animation](https://raw.githubusercontent.com/RajatDjangoDeveloper/RajatDjangoDeveloper/output/github-contribution-grid-snake.svg)
-![Snake animation](https://raw.githubusercontent.com/RajatDjangoDeveloper/RajatDjangoDeveloper/output/github-contribution-grid-snake.svg)
+<p align="center">
+ <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+</p>
 
 ---
 
