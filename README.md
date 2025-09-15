@@ -66,6 +66,7 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 ## 🐍 Contribution Graph  
 
 ![Snake animation](https://raw.githubusercontent.com/RajatDjangoDeveloper/RajatDjangoDeveloper/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/RajatDjangoDeveloper/RajatDjangoDeveloper/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -73,8 +74,7 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 
 - **B.Tech (Mechanical Engineering)** – RGPV, Bhopal  
 - **Diploma in Engineering** – Ganga Technical Campus  
-- **AWS Cloud Practitioner Essentials** (2025)  
-- **Cloud Solution Architecture with AWS – Skillzone Institute, Pune (2025)**  
+- **AWS Cloud Practitioner Essentials** (2025)    
 
 ---
 
