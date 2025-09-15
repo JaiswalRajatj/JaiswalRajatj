@@ -73,7 +73,7 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 
 ## 🎓 Education & Certifications  
 
-- **B.Tech (Mechanical Engineering)** – RGPV, Bhopal  
+- **B.Tech ** – RGPV, Bhopal  
 - **Diploma in Engineering** – Ganga Technical Campus  
 - **AWS Cloud Practitioner Essentials** (2025)    
 
