@@ -40,9 +40,9 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=RajatDjangoDeveloper&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RajatDjangoDeveloper&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=RajatDjangoDeveloper&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=JaiswalRajatj&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiswalRajatj&layout=compact&theme=radical)  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaiswalRajatj&theme=radical)  
 
 ---
 
