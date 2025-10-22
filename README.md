@@ -40,15 +40,15 @@ Previously worked as a Python/Django developer, which gives me a strong foundati
 
 ## 📊 GitHub Stats  
 
-![Stats](https://github-readme-stats.vercel.app/api?username=JaiswalRajatj&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiswalRajatj&layout=compact&theme=radical)  
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaiswalRajatj&theme=radical)  
+![Stats](https://github-readme-stats.vercel.app/api?username=JaiswalRajatj&show_icons=true&theme=radical)?  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JaiswalRajatj&layout=compact&theme=radical)?  
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=JaiswalRajatj&theme=radical)?
 
 ---
 
 ## 🏆 Trophies  
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=RajatDjangoDeveloper&theme=onedark&margin-w=10&margin-h=10)  
+![Trophies](https://github-profile-trophy.vercel.app/?username=JaiswalRajatj&theme=onedark&margin-w=10&margin-h=10)  
 
 ---
 
